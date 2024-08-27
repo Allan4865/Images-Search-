@@ -9,7 +9,6 @@ Download the pkl archives from the link in the /Saves/enlaces.txt and put them o
 
 <p align="center">
 <a href="https://github.com/Allan4865">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Allan4865&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Allan4865&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
